@@ -39,5 +39,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'rspec-rails', '~> 3.0'
   spec.add_runtime_dependency 'rails', '~> 5.0'
   spec.add_runtime_dependency 'mail', '>= 2.6.6', '< 2.8.0'
-  spec.add_runtime_dependency 'activesupport', '>= 5.1.4', '< 5.3.0'
+  spec.add_runtime_dependency 'activesupport', '>= 5.1.4', '< 6.1.0'
 end
